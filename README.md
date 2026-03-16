@@ -1,5 +1,6 @@
 # BuildWithUs Backend API
 
+
 A Spring Boot–based backend service for BuildWithUs — an AI-powered developer collaboration and project-building platform.
 
 This backend provides:
