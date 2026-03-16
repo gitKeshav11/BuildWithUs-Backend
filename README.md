@@ -11,7 +11,6 @@ This backend provides:
 - Developer AI (Code / Debug / Ideas)
 - Frontend-ready REST APIs
 
-
 ---
 
 ## Overview
