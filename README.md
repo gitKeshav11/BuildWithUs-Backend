@@ -219,14 +219,19 @@ Perfect for:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Contributors
+<a href="https://github.com/gitKeshav11/BuildWithUs-Backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/BuildWithUs-Backend" />
 
-**Keshav Upadhyay**
-Backend Developer (Java & Spring Boot)
+</a>
 
-📧 [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)
-🔗 https://www.linkedin.com/in/keshavupadhyayje/
-🐙 https://github.com/gitKeshav11
+## 📞 Contact
+### **Keshav Upadhyay**  
+**Role:** Backend Developer (Java & Spring Boot)  
+📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
+🔗 LinkedIn: [Keshav Upadhyay](https://www.linkedin.com/in/keshavupadhyayje/)  
+🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)  
+
 
 ---
 
