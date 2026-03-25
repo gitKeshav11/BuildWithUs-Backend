@@ -1,5 +1,6 @@
 # CodeMate AI Backend API
 
+
 A Spring Boot–based backend service for CodeMate AI — an AI-powered developer collaboration and project-building platform.
 This backend provides:
 * JWT Authentication (Register / Login)
