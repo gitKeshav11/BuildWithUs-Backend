@@ -1126,19 +1126,18 @@ Create a PR with:
 - Screenshots/API responses if required
 
 ---
-
 ## 👨‍💻 Author & Contributors
-<a href="https://github.com/gitKeshav11/BuildWithUs-Backend/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gitKeshav11/BuildWithUs-Backend" />
-</a>
-
+  <a href="https://github.com/gitKeshav11/BuildWithUs/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=gitKeshav11/BuildWithUs" />
+  </a>
+  
 ## 📞 Contact
+### 👨‍💻 Keshav Upadhyay  
+**🚀 Role:** Software Developer (Java & Spring Boot)  
 
-### **Keshav Upadhyay**  
-**Role:** Backend Developer (Java & Spring Boot)  
-📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
-🔗 LinkedIn: [Keshav Upadhyay](https://www.linkedin.com/in/keshavupadhyayje/)  
-🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)  
+📧 **Email:** [gitKeshav11@gmail.com](mailto:gitKeshav11@gmail.com)  
+🔗 **LinkedIn:** [Keshav Upadhyay](https://www.linkedin.com/in/gitKeshav11/)  
+🐙 **GitHub:** [gitKeshav11](https://github.com/gitKeshav11)  
 
 
 ---
